@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OnurGvnsy
 - 👀 I’m interested in code,music and sports
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and unreal engine 5
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
